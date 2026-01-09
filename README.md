@@ -16,6 +16,10 @@ You can install the Neda cli with cargo:
 cargo install neda-cli
 ```
 
+### GUI
+
+Neda as project has a gui but it's not an implementation of this rust library. Is completely separate project written in Dart and Flutter not rust which is a cross platform. The reason why the Gui project are written in Dart is because I wanna to write once and run every where and Dart is a good fit for this purpose it's insha'Allah give a good performance and cross-cross-platform support (in short I think Dart is more ready for gui development) 
+
 ### Library
 
 Add this to your `Cargo.toml`:
@@ -31,7 +35,6 @@ neda = "0.1"
 - aladhan-provider # default api provider.
 - sqlite-storage # storage module, a sqlite db for offline access.
 - client # utilities to help you make your own neda client (including a config_reader and some stuff).
-
 
 ## Usage
 
