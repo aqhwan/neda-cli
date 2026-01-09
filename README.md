@@ -18,7 +18,8 @@ cargo install neda-cli
 
 ### GUI
 
-Neda as project has a gui but it's not an implementation of this rust library. Is completely separate project written in Dart and Flutter not rust which is a cross platform. The reason why the Gui project are written in Dart is because I wanna to write once and run every where and Dart is a good fit for this purpose it's insha'Allah give a good performance and cross-cross-platform support (in short I think Dart is more ready for gui development) 
+Neda as project has a gui but it's not an implementation of this rust library. Is completely separate project written in Dart and Flutter not rust which is a cross platform. The reason why the Gui project are written in Dart is because I wanna to write once and run every where and Dart is a good fit for this purpose it's insha'Allah give a good performance and cross-cross-platform support (in short I think Dart is more ready for gui development).
+You can find the Gui [here](https://github.com/aqhwan/neda)
 
 ### Library
 
